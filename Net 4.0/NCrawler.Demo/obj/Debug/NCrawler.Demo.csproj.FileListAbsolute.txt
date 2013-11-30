@@ -35,3 +35,6 @@ E:\temp\NCrawler\Net 4.0\NCrawler.Demo\bin\Debug\EPocalipse.IFilter.pdb
 E:\temp\NCrawler\Net 4.0\NCrawler.Demo\obj\Debug\NCrawler.Demo.csprojResolveAssemblyReference.cache
 E:\temp\NCrawler\Net 4.0\NCrawler.Demo\obj\Debug\NCrawler.Demo.exe
 E:\temp\NCrawler\Net 4.0\NCrawler.Demo\obj\Debug\NCrawler.Demo.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.Demo\bin\Debug\NCrawler.Demo.exe.config
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.Demo\obj\Debug\NCrawler.Demo.exe
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.Demo\obj\Debug\NCrawler.Demo.pdb
