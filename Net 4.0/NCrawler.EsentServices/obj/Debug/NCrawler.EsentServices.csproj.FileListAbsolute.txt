@@ -7,3 +7,13 @@ E:\temp\NCrawler\Net 4.0\NCrawler.EsentServices\bin\Debug\NCrawler.pdb
 E:\temp\NCrawler\Net 4.0\NCrawler.EsentServices\obj\Debug\NCrawler.EsentServices.csprojResolveAssemblyReference.cache
 E:\temp\NCrawler\Net 4.0\NCrawler.EsentServices\obj\Debug\NCrawler.EsentServices.dll
 E:\temp\NCrawler\Net 4.0\NCrawler.EsentServices\obj\Debug\NCrawler.EsentServices.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\bin\Debug\NCrawler.EsentServices.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\bin\Debug\NCrawler.EsentServices.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\bin\Debug\Autofac.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\bin\Debug\Esent.Interop.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\bin\Debug\NCrawler.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\bin\Debug\NCrawler.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\bin\Debug\Autofac.xml
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\obj\Debug\NCrawler.EsentServices.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\obj\Debug\NCrawler.EsentServices.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.EsentServices\obj\Debug\NCrawler.EsentServices.csprojResolveAssemblyReference.cache

@@ -26,7 +26,7 @@ namespace NCrawler.Demo
 		public static void Run()
 		{
 			NCrawlerModule.Setup();
-			Console.Out.WriteLine("Simple crawl demo");
+			Console.Out.WriteLine("Simple crawl demo 123");
 
 			// Setup crawler to crawl http://ncrawler.codeplex.com
 			// with 1 thread adhering to robot rules, and maximum depth
@@ -35,10 +35,8 @@ namespace NCrawler.Demo
 			//  * Step 2 - Processes PDF files, extracting text
 			//  * Step 3 - Try to determine language based on page, based on text extraction, using google language detection
 			//  * Step 4 - Dump the information to the console, this is a custom step, see the DumperStep class
-			using (Crawler c = new Crawler(new Uri("http://ncrawler.codeplex.com"),
+            using (Crawler c = new Crawler(new Uri("http://zodiacnau.mcreateserver.net/"),
 				new HtmlDocumentProcessor(), // Process html
-				new iTextSharpPdfProcessor.iTextSharpPdfProcessor(),
-				new GoogleLanguageDetection(),
 				new DumperStep())
 				{
 					// Custom step to visualize crawl
@@ -47,6 +45,7 @@ namespace NCrawler.Demo
 					ExcludeFilter = Program.ExtensionsToSkip,
 				})
 			{
+                c.AdhereToRobotRules = false;
 				// Begin crawl
 				c.Crawl();
 			}
@@ -74,21 +73,23 @@ namespace NCrawler.Demo
 		/// </param>
 		public void Process(Crawler crawler, PropertyBag propertyBag)
 		{
-			CultureInfo contentCulture = (CultureInfo) propertyBag["LanguageCulture"].Value;
-			string cultureDisplayValue = "N/A";
-			if (!contentCulture.IsNull())
-			{
-				cultureDisplayValue = contentCulture.DisplayName;
-			}
+            //CultureInfo contentCulture = (CultureInfo) propertyBag["LanguageCulture"].Value;
+            //string cultureDisplayValue = "N/A";
+            //if (!contentCulture.IsNull())
+            //{
+            //    cultureDisplayValue = contentCulture.DisplayName;
+            //}
 
-			lock (this)
+			//lock (this)
 			{
 				Console.Out.WriteLine(ConsoleColor.Gray, "Url: {0}", propertyBag.Step.Uri);
+                Console.Out.WriteLine(ConsoleColor.DarkGreen, "\tStatus Code: {0}", propertyBag.StatusCode);
+                Console.Out.WriteLine(ConsoleColor.DarkGreen, "\tStatus Description: {0}", propertyBag.StatusDescription);
 				Console.Out.WriteLine(ConsoleColor.DarkGreen, "\tContent type: {0}", propertyBag.ContentType);
 				Console.Out.WriteLine(ConsoleColor.DarkGreen, "\tContent length: {0}",
 					propertyBag.Text.IsNull() ? 0 : propertyBag.Text.Length);
 				Console.Out.WriteLine(ConsoleColor.DarkGreen, "\tDepth: {0}", propertyBag.Step.Depth);
-				Console.Out.WriteLine(ConsoleColor.DarkGreen, "\tCulture: {0}", cultureDisplayValue);
+				//Console.Out.WriteLine(ConsoleColor.DarkGreen, "\tCulture: {0}", cultureDisplayValue);
 				Console.Out.WriteLine(ConsoleColor.DarkGreen, "\tThreadId: {0}", Thread.CurrentThread.ManagedThreadId);
 				Console.Out.WriteLine(ConsoleColor.DarkGreen, "\tThread Count: {0}", crawler.ThreadsInUse);
 				Console.Out.WriteLine();

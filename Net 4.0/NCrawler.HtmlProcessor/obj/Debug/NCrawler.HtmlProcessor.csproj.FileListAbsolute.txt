@@ -10,3 +10,16 @@ E:\temp\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor
 E:\temp\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.csproj.GenerateResource.Cache
 E:\temp\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.dll
 E:\temp\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\NCrawler.HtmlProcessor.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\NCrawler.HtmlProcessor.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\NCrawler.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\Autofac.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\NCrawler.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\HtmlAgilityPack.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\Autofac.xml
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.Properties.Resources.resources
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.csproj.GenerateResource.Cache
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.csprojResolveAssemblyReference.cache

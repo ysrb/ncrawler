@@ -7,3 +7,13 @@ E:\temp\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.pdb
 E:\temp\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.csprojResolveAssemblyReference.cache
 E:\temp\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.dll
 E:\temp\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.iTextSharpPdfProcessor.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.iTextSharpPdfProcessor.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\itextsharp.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\Autofac.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\Autofac.xml
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.csprojResolveAssemblyReference.cache

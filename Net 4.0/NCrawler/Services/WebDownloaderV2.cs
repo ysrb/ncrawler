@@ -205,7 +205,7 @@ namespace NCrawler.Services
 			catch (WebException webException)
 			{
 				HttpWebResponse response = (HttpWebResponse) webException.Response;
-				CallComplete(requestState, response);
+				CallComplete(requestState, response, webException.ToString());
 			}
 			catch (Exception e)
 			{
@@ -264,7 +264,7 @@ namespace NCrawler.Services
 
 		#region Class Methods
 
-		private static void CallComplete<T>(RequestState<T> requestState, HttpWebResponse response)
+		private static void CallComplete<T>(RequestState<T> requestState, HttpWebResponse response, string errorDescription = "")
 		{
 			if (response != null)
 			{
@@ -309,7 +309,7 @@ namespace NCrawler.Services
 							ResponseUri = null,
 							Server = string.Empty,
 							StatusCode = HttpStatusCode.Forbidden,
-							StatusDescription = string.Empty,
+                            StatusDescription = errorDescription,
 							GetResponse = requestState.ResponseBuffer.IsNull()
 								? (Func<Stream>)(() => new MemoryStream())
 								: requestState.ResponseBuffer.GetReaderStream,

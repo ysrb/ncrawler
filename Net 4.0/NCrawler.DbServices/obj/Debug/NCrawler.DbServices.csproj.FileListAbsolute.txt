@@ -9,3 +9,15 @@ E:\temp\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.pdb
 E:\temp\NCrawler\Net 4.0\NCrawler.DbServices\obj\Debug\NCrawler.DbServices.csprojResolveAssemblyReference.cache
 E:\temp\NCrawler\Net 4.0\NCrawler.DbServices\obj\Debug\NCrawler.DbServices.dll
 E:\temp\NCrawler\Net 4.0\NCrawler.DbServices\obj\Debug\NCrawler.DbServices.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.mdf
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler_log.ldf
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.DbServices.dll.config
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.DbServices.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.DbServices.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\Autofac.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\Autofac.xml
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\obj\Debug\NCrawler.DbServices.dll
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\obj\Debug\NCrawler.DbServices.pdb
+E:\Projects\git\NCrawler\Net 4.0\NCrawler.DbServices\obj\Debug\NCrawler.DbServices.csprojResolveAssemblyReference.cache
