@@ -33,7 +33,6 @@ namespace NCrawler.HtmlProcessor
 		/// <summary>
 		/// </summary>
 		private readonly Dictionary<string, string> m_FilterTextRules;
-
 		#endregion
 
 		#region Constructors

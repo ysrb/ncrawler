@@ -62,6 +62,7 @@ namespace NCrawler.Console
 				crawler.AfterDownload += CrawlerAfterDownload;
 				crawler.PipelineException += CrawlerPipelineException;
 				crawler.DownloadException += CrawlerDownloadException;
+                crawler.UriSensitivity = UriComponents.Host;
 				crawler.Crawl();
 			}
 		}

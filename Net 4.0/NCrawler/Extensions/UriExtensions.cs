@@ -15,13 +15,27 @@ namespace NCrawler.Extensions
 
 			// Get sensitive part
 			string sensitiveUrlPart = uri.GetComponents(uriSensitivity, UriFormat.Unescaped);
-
+            //Console.WriteLine("completeUrl: " + completeUrl);
+            //Console.WriteLine("uriSensitivity: " + uriSensitivity);
+            //Console.WriteLine("sensitiveUrlPart: " + sensitiveUrlPart);
 			if (sensitiveUrlPart.IsNullOrEmpty())
 			{
 				return completeUrl;
 			}
-
-			return completeUrl.Replace(sensitiveUrlPart.ToUpperInvariant(), sensitiveUrlPart);
+            var result = completeUrl.Replace(sensitiveUrlPart.ToUpperInvariant(), sensitiveUrlPart);
+            //Remove any hash tags if it's empty hash tags.
+            //Console.WriteLine("result: " + result);
+            if (result.Contains("#"))
+            {
+                result = result.Substring(0, result.IndexOf("#"));
+                //Console.WriteLine("uri.Fragment: " + uri.Fragment);
+                //if (uri.Fragment == "#")
+                //{
+                //    result = result.Substring(0, result.IndexOf("#"));
+                //}
+            }
+            //Console.WriteLine("result: " + result);
+            return result;
 		}
 
 		/// <summary>
