@@ -15,3 +15,12 @@ E:\Projects\git\NCrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\Auto
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.dll
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.pdb
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.IsolatedStorageServices.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.IsolatedStorageServices.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\Autofac.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\Autofac.xml
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.pdb

@@ -42,17 +42,17 @@ namespace NCrawler
 		private long m_DownloadErrors;
 		private Stopwatch m_Runtime;
 		private bool m_OnlyOneCrawlPerInstance;
+        public List<string> ExtraLinks;
+        #endregion
 
-		#endregion
+        #region Constructors
 
-		#region Constructors
-
-		/// <summary>
-		/// 	Constructor for NCrawler
-		/// </summary>
-		/// <param name = "crawlStart">The url from where the crawler should start</param>
-		/// <param name = "pipeline">Pipeline steps</param>
-		public Crawler(Uri crawlStart, params IPipelineStep[] pipeline)
+        /// <summary>
+        /// 	Constructor for NCrawler
+        /// </summary>
+        /// <param name = "crawlStart">The url from where the crawler should start</param>
+        /// <param name = "pipeline">Pipeline steps</param>
+        public Crawler(Uri crawlStart, params IPipelineStep[] pipeline)
 		{
 			AspectF.Define.
 				NotNull(crawlStart, "crawlStart").
@@ -67,7 +67,9 @@ namespace NCrawler
 			UriSensitivity = UriComponents.HttpRequestUrl;
 			MaximumDownloadSizeInRam = 1024*1024;
 			DownloadBufferSize = 50 * 1024;
-		}
+            ExtraLinks = new List<string>();
+
+        }
 
 		#endregion
 
@@ -115,6 +117,10 @@ namespace NCrawler
 				else
 				{
 					AddStep(m_BaseUri, 0);
+                    foreach(var link in ExtraLinks)
+                    {
+                        AddStep(new Uri(link), 0);
+                    }
 				}
 
 				if (!m_CrawlStopped)

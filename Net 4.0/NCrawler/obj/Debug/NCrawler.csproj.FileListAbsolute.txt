@@ -11,3 +11,10 @@ E:\Projects\git\NCrawler\Net 4.0\NCrawler\bin\Debug\Autofac.dll
 E:\Projects\git\NCrawler\Net 4.0\NCrawler\bin\Debug\Autofac.xml
 E:\Projects\git\NCrawler\Net 4.0\NCrawler\obj\Debug\NCrawler.dll
 E:\Projects\git\NCrawler\Net 4.0\NCrawler\obj\Debug\NCrawler.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler\bin\Debug\NCrawler.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler\bin\Debug\NCrawler.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler\bin\Debug\Autofac.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler\bin\Debug\Autofac.xml
+C:\Project\github\ncrawler\Net 4.0\NCrawler\obj\Debug\NCrawler.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler\obj\Debug\NCrawler.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler\obj\Debug\NCrawler.pdb

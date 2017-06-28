@@ -17,3 +17,13 @@ E:\Projects\git\NCrawler\Net 4.0\NCrawler.Db4oServices\bin\Debug\Autofac.xml
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.Db4oServices\obj\Debug\NCrawler.Db4oServices.dll
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.Db4oServices\obj\Debug\NCrawler.Db4oServices.pdb
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.Db4oServices\obj\Debug\NCrawler.Db4oServices.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\bin\Debug\NCrawler.Db4oServices.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\bin\Debug\NCrawler.Db4oServices.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\bin\Debug\Autofac.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\bin\Debug\Db4objects.Db4o.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\bin\Debug\NCrawler.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\bin\Debug\NCrawler.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\bin\Debug\Autofac.xml
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\obj\Debug\NCrawler.Db4oServices.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\obj\Debug\NCrawler.Db4oServices.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.Db4oServices\obj\Debug\NCrawler.Db4oServices.pdb

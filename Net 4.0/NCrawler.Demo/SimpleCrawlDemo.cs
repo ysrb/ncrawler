@@ -35,7 +35,7 @@ namespace NCrawler.Demo
 			//  * Step 2 - Processes PDF files, extracting text
 			//  * Step 3 - Try to determine language based on page, based on text extraction, using google language detection
 			//  * Step 4 - Dump the information to the console, this is a custom step, see the DumperStep class
-            using (Crawler c = new Crawler(new Uri("http://zodiacnau.mcreateserver.net/"),
+            using (Crawler c = new Crawler(new Uri("http://ucau2.stage02.jaydapps.com/sitemap"),
 				new HtmlDocumentProcessor(), // Process html
 				new DumperStep())
 				{

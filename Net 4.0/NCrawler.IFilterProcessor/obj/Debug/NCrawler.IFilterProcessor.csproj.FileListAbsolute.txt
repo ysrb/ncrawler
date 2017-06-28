@@ -19,3 +19,14 @@ E:\Projects\git\NCrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\Autofac.xml
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.IFilterProcessor\obj\Debug\NCrawler.IFilterProcessor.dll
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.IFilterProcessor\obj\Debug\NCrawler.IFilterProcessor.pdb
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.IFilterProcessor\obj\Debug\NCrawler.IFilterProcessor.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\NCrawler.IFilterProcessor.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\NCrawler.IFilterProcessor.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\EPocalipse.IFilter.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\NCrawler.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\Autofac.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\NCrawler.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\EPocalipse.IFilter.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\Autofac.xml
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\obj\Debug\NCrawler.IFilterProcessor.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\obj\Debug\NCrawler.IFilterProcessor.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.IFilterProcessor\obj\Debug\NCrawler.IFilterProcessor.pdb

@@ -15,3 +15,12 @@ E:\Projects\git\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\Aut
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\obj\Debug\NCrawler.LanguageDetection.Google.dll
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\obj\Debug\NCrawler.LanguageDetection.Google.pdb
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\obj\Debug\NCrawler.LanguageDetection.Google.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\NCrawler.LanguageDetection.Google.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\NCrawler.LanguageDetection.Google.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\Autofac.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\NCrawler.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\NCrawler.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\Autofac.xml
+C:\Project\github\ncrawler\Net 4.0\NCrawler.LanguageDetection.Google\obj\Debug\NCrawler.LanguageDetection.Google.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.LanguageDetection.Google\obj\Debug\NCrawler.LanguageDetection.Google.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.LanguageDetection.Google\obj\Debug\NCrawler.LanguageDetection.Google.pdb

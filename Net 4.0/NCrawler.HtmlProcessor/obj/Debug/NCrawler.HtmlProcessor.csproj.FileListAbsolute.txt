@@ -23,3 +23,16 @@ E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlP
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.dll
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.pdb
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\NCrawler.HtmlProcessor.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\NCrawler.HtmlProcessor.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\HtmlAgilityPack.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\NCrawler.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\Autofac.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\NCrawler.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\HtmlAgilityPack.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\bin\Debug\Autofac.xml
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.Properties.Resources.resources
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.csproj.GenerateResource.Cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.HtmlProcessor\obj\Debug\NCrawler.HtmlProcessor.pdb

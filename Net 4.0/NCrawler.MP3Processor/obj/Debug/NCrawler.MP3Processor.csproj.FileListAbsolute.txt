@@ -17,3 +17,13 @@ E:\Projects\git\NCrawler\Net 4.0\NCrawler.MP3Processor\bin\Debug\Autofac.xml
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.MP3Processor\obj\Debug\NCrawler.MP3Processor.dll
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.MP3Processor\obj\Debug\NCrawler.MP3Processor.pdb
 E:\Projects\git\NCrawler\Net 4.0\NCrawler.MP3Processor\obj\Debug\NCrawler.MP3Processor.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\bin\Debug\NCrawler.MP3Processor.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\bin\Debug\NCrawler.MP3Processor.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\bin\Debug\NCrawler.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\bin\Debug\UltraID3Lib.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\bin\Debug\Autofac.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\bin\Debug\NCrawler.pdb
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\bin\Debug\Autofac.xml
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\obj\Debug\NCrawler.MP3Processor.csprojResolveAssemblyReference.cache
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\obj\Debug\NCrawler.MP3Processor.dll
+C:\Project\github\ncrawler\Net 4.0\NCrawler.MP3Processor\obj\Debug\NCrawler.MP3Processor.pdb
