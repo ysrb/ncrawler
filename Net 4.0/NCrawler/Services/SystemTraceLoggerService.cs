@@ -2,6 +2,7 @@
 
 using NCrawler.Extensions;
 using NCrawler.Interfaces;
+using System;
 
 namespace NCrawler.Services
 {
@@ -11,27 +12,32 @@ namespace NCrawler.Services
 
 		public void Verbose(string format, params object[] parameters)
 		{
+            Console.WriteLine(format, parameters);
 			Trace.TraceInformation(ToMessage(format, parameters));
 		}
 
 		public void Warning(string format, params object[] parameters)
 		{
-			Trace.TraceWarning(ToMessage(format, parameters));
+            Console.WriteLine(format, parameters);
+            Trace.TraceWarning(ToMessage(format, parameters));
 		}
 
 		public void Debug(string format, params object[] parameters)
 		{
-			System.Diagnostics.Debug.Write(ToMessage(format, parameters));
+            Console.WriteLine(format, parameters);
+            System.Diagnostics.Debug.Write(ToMessage(format, parameters));
 		}
 
 		public void Error(string format, params object[] parameters)
 		{
-			Trace.TraceError(ToMessage(format, parameters));
+            Console.WriteLine(format, parameters);
+            Trace.TraceError(ToMessage(format, parameters));
 		}
 
 		public void FatalError(string format, params object[] parameters)
 		{
-			Trace.TraceError(ToMessage(format, parameters));
+            Console.WriteLine(format, parameters);
+            Trace.TraceError(ToMessage(format, parameters));
 		}
 
 		#endregion

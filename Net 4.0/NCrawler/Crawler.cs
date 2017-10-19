@@ -103,13 +103,14 @@ namespace NCrawler
 			parameters = parameters.AddToEnd(new TypedParameter(typeof (ILog), m_Logger)).ToArray();
 			m_CrawlerRules = m_LifetimeScope.Resolve<ICrawlerRules>(parameters);
 			m_Logger.Verbose("Crawl started @ {0}", m_BaseUri);
+            Console.WriteLine("ncrawler - Crawl started @ {0}", m_BaseUri);
 			m_WebDownloaderFactory = m_LifetimeScope.Resolve<Func<IWebDownloader>>();
 			using (m_CrawlCompleteEvent = new ManualResetEvent(false))
 			{
 				m_Crawling = true;
 				m_Runtime = Stopwatch.StartNew();
-
-				if (m_CrawlerQueue.Count > 0)
+                Console.WriteLine(string.Format("ncrawler - m_CrawlerQueue.Count: {0}", m_CrawlerQueue.Count));
+                if (m_CrawlerQueue.Count > 0)
 				{
 					// Resume enabled
 					ProcessQueue();
@@ -138,7 +139,8 @@ namespace NCrawler
 			}
 
 			m_Logger.Verbose("Crawl ended @ {0} in {1}", m_BaseUri, m_Runtime.Elapsed);
-			OnCrawlFinished();
+            Console.WriteLine("Crawl ended @ {0} in {1}", m_BaseUri, m_Runtime.Elapsed);
+            OnCrawlFinished();
 		}
 
 		/// <summary>
